@@ -1,8 +1,7 @@
 ### Hi 👋 I'm Preeti Sondhi 👩🏾‍💻
 
 To stay up to date with my latest videos make sure to subscribe to this YouTube channel <a href="https://www.youtube.com/channel/UCE5MkQ1WJirFaNAKe01ncQQ?">Youtube</a>
-### 
-[![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=a href="https://www.linkedin.com/in/preeti-sondhi-963b5649/")
+
 [![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sondhipreeti13@gmail.com)
 
 A little more about me...  
