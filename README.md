@@ -2,8 +2,6 @@
 
 To stay up to date with my latest videos make sure to subscribe to this YouTube channel <a href="https://www.youtube.com/channel/UCE5MkQ1WJirFaNAKe01ncQQ?">Youtube</a>
 
-[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sondhipreeti13@gmail.com)
-
 A little more about me...  
 
 - 🔭 I’m currently working on ... Exploring and Experimenting AI
